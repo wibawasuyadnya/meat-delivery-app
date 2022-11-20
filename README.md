@@ -4,7 +4,7 @@
 
 ### Cloning the Repository
 
-`git clone https://github.com/joaaomanooel/meat-app.git`
+`git clone https://github.com/wibawasuyadnya/meat-delivery-app.git`
 
 ### Install all depedencies
 
