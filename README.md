@@ -1,28 +1,28 @@
 # Meat - Angular App
 
-## 1. Passos para começar
+## 1. steps to get started
 
-### Clonando o Repositório
+### Cloning the Repository
 
 `git clone https://github.com/joaaomanooel/meat-app.git`
 
-### Instalando as Dependências
+### Install all depedencies
 
 `npm install`
 
-### Inicializando o Servidor
+### Running Live Server
 
 `ng serve` ou `npm start`
 
-## 2. Iniciando o Backend
+## 2. Setup Backend
 
-### Iniciando o serviço (raiz da aplicação)
+### Starting the service (application root)
 
 `npm run json-server`
 
 ## Goodies
 
-Expressões regulares usadas na validação de formulários
+Regular expressions used in form validation
 
 ### Email Regex
 
@@ -32,6 +32,6 @@ Expressões regulares usadas na validação de formulários
 
 `/^[0-9]*$/`
 
-## Créditos
+## Credit
 
-Todas as imagens usadas na aplicação são pertencentes a freepik.com
+All images used in the application belong to freepik.com
